@@ -36,12 +36,12 @@ let words = [
     },
     {
         word: "Beedrill",
-        hint: "Insect Pokémon which mostly resembles a yellow wasp",
+        hint: "Insect Pokemon which mostly resembles a yellow wasp",
         No: "015"
     },
     {
         word: "Pidgey",
-        hint: " A normal and flying type small, plump-bodied avian Pokémon",
+        hint: " A normal and flying type small, plump-bodied avian Pokemon",
         No: "016"
     },
     {
@@ -56,7 +56,7 @@ let words = [
     },
     {
         word: "Raticate",
-        hint: "The large, rodent-like Pokémon",
+        hint: "The large, rodent-like Pokemon",
         No: "014"
     },
     {
